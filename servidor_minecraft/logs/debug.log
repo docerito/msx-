@@ -11455,3 +11455,11 @@ java.lang.ClassCastException: class mod.lucky.common.attribute.ListAttr cannot b
 [27Nov2024 04:41:28.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Nov2024 04:46:28.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Nov2024 04:46:28.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:51:28.366] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 1, Max Possible Invasions: 1
+[27Nov2024 04:51:28.366] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 1, Max Possible Invasions: 1
+[27Nov2024 04:51:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 1, Max Possible Invasions: 1
+[27Nov2024 04:51:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 1, Max Possible Invasions: 1
+[27Nov2024 04:51:28.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:51:28.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:56:28.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:56:28.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
