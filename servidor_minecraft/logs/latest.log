@@ -2005,3 +2005,10 @@ java.lang.ClassCastException: class mod.lucky.common.attribute.ListAttr cannot b
 [27Nov2024 04:51:28.366] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 1, Max Possible Invasions: 1
 [27Nov2024 04:51:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 1, Max Possible Invasions: 1
 [27Nov2024 04:51:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 1, Max Possible Invasions: 1
+[27Nov2024 05:01:28.366] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 1, Max Possible Invasions: 1
+[27Nov2024 05:01:28.367] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 1, Max Possible Invasions: 1
+[27Nov2024 05:01:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 1, Max Possible Invasions: 1
+[27Nov2024 05:01:28.367] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 1, Max Possible Invasions: 1
+[27Nov2024 05:01:28.367] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[27Nov2024 05:01:28.370] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[27Nov2024 05:01:28.370] [Server thread/INFO] [puresuffering/]: ]
