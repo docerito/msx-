@@ -1997,3 +1997,7 @@ java.lang.ClassCastException: class mod.lucky.common.attribute.ListAttr cannot b
 [27Nov2024 04:31:28.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
 [27Nov2024 04:31:31.202] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
 [27Nov2024 04:36:28.390] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/data/TeamType
+[27Nov2024 04:41:28.370] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 0, Max Possible Invasions: 1
+[27Nov2024 04:41:28.371] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 0, Max Possible Invasions: 1
+[27Nov2024 04:41:28.371] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 0, Max Possible Invasions: 1
+[27Nov2024 04:41:28.371] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 0, Max Possible Invasions: 1
