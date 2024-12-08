@@ -1,0 +1,8 @@
+#Localization for en
+#Sat Dec 07 23:14:29 UTC 2024
+change=Processing...
+error=Skin process error occurred.
+fulfilled=Skin has been applied.
+fulfilled_force=Operator changed your skin.
+no_source=Skin is not set
+timeout=Skin fetch timeout occurred.

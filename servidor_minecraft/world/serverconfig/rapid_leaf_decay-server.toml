@@ -1,0 +1,3 @@
+#Ticks between the leaves decays.
+#Range: > 0
+decay_delay = 5
