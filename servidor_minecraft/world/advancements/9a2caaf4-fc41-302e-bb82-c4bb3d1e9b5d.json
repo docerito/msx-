@@ -2388,6 +2388,12 @@
     },
     "done": true
   },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -3693,6 +3699,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2024-12-08 23:50:48 +0000"
     },
     "done": true
   },
@@ -5211,6 +5223,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-08 23:50:43 +0000"
     },
     "done": true
   },
@@ -6816,6 +6834,36 @@
     },
     "done": true
   },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -7542,9 +7590,21 @@
     },
     "done": true
   },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-08 23:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2024-12-08 23:42:11 +0000"
     },
     "done": true
   },

@@ -2218,3 +2218,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [08Dec2024 23:42:11.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [New Journey]
 [08Dec2024 23:42:18.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/125, l='ServerLevel[Oneblock Original v3.2.0]', x=-7.90, y=-270.36, z=-0.98] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [08Dec2024 23:42:18.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/125, l='ServerLevel[Oneblock Original v3.2.0]', x=-7.90, y=-270.36, z=-0.98] died: Mysterious Trader 🧪 fell out of the world
+[08Dec2024 23:46:59.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Found Land]
+[08Dec2024 23:48:23.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:53415] logged in with entity id 188 at (2.180731405382261, 60.5, 0.3878599596784792)
+[08Dec2024 23:48:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[08Dec2024 23:50:43.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Woodlands]
+[08Dec2024 23:50:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [#PlantATree]
+[08Dec2024 23:51:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has completed the challenge [Progress]
+[08Dec2024 23:51:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 1]
+[08Dec2024 23:51:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 2]
+[08Dec2024 23:51:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 3]
+[08Dec2024 23:51:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 4]
+[08Dec2024 23:51:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 5]
+[08Dec2024 23:51:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Cobblemania]
+[08Dec2024 23:51:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Stone Age]
+[08Dec2024 23:55:46.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [The Builder]
