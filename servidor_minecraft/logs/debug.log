@@ -2968,3 +2968,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [09Dec2024 20:38:55.449] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
 [09Dec2024 20:38:57.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/485, l='ServerLevel[Oneblock Original v3.2.0]', x=0.48, y=-1048.16, z=0.44] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [09Dec2024 20:38:57.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/485, l='ServerLevel[Oneblock Original v3.2.0]', x=0.48, y=-1048.16, z=0.44] died: Mysterious Trader 🧪 fell out of the world
+[09Dec2024 20:43:27.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAXI lost connection: Disconnected
+[09Dec2024 20:43:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI left the game
+[09Dec2024 20:43:45.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[09Dec2024 20:43:45.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[09Dec2024 20:48:45.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[09Dec2024 20:48:45.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
