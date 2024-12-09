@@ -1103,12 +1103,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-08 00:29:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -1703,12 +1697,6 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-08 00:43:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -2165,12 +2153,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2024-12-08 00:53:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -2375,12 +2357,6 @@
     },
     "done": true
   },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2024-12-08 00:22:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -2414,12 +2390,6 @@
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/coal": {
-    "criteria": {
-      "requirement": "2024-12-08 00:43:33 +0000"
     },
     "done": true
   },
@@ -3125,12 +3095,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-08 00:47:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -3248,12 +3212,6 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-08 00:25:52 +0000"
     },
     "done": true
   },
@@ -3698,12 +3656,6 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/plant": {
-    "criteria": {
-      "requirement": "2024-12-08 00:59:45 +0000"
     },
     "done": true
   },
@@ -5219,21 +5171,9 @@
     },
     "done": true
   },
-  "obs:ob/furnace": {
-    "criteria": {
-      "requirement": "2024-12-08 00:40:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/sapling": {
-    "criteria": {
-      "requirement": "2024-12-08 00:25:53 +0000"
     },
     "done": true
   },
@@ -5435,12 +5375,6 @@
     },
     "done": true
   },
-  "obs:ob/cobblemania": {
-    "criteria": {
-      "requirement": "2024-12-08 00:29:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -5486,12 +5420,6 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-08 00:30:55 +0000"
     },
     "done": true
   },
@@ -6125,12 +6053,6 @@
     },
     "done": true
   },
-  "obs:ob/iron": {
-    "criteria": {
-      "requirement": "2024-12-08 00:43:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -6212,12 +6134,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-08 00:47:46 +0000"
     },
     "done": true
   },
@@ -6677,12 +6593,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-12-08 00:53:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
@@ -6712,12 +6622,6 @@
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-12-08 00:22:33 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
@@ -6848,36 +6752,6 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2024-12-08 00:23:25 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_2": {
-    "criteria": {
-      "requirement": "2024-12-08 00:26:03 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_3": {
-    "criteria": {
-      "requirement": "2024-12-08 00:29:27 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_4": {
-    "criteria": {
-      "requirement": "2024-12-08 00:39:52 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_5": {
-    "criteria": {
-      "requirement": "2024-12-08 00:57:55 +0000"
     },
     "done": true
   },
@@ -7078,12 +6952,6 @@
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2024-12-08 00:47:11 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
@@ -7613,21 +7481,9 @@
     },
     "done": true
   },
-  "obs:phases/dirt_2": {
-    "criteria": {
-      "requirement": "2024-12-08 00:40:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/dirt_1": {
-    "criteria": {
-      "requirement": "2024-12-08 00:32:02 +0000"
     },
     "done": true
   },
@@ -7874,6 +7730,168 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-08 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-08 00:22:33 +0000"
+    },
+    "done": false
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2024-12-08 00:22:40 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2024-12-08 00:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-08 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-08 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2024-12-08 00:26:03 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2024-12-08 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-08 00:29:47 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2024-12-08 00:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-08 00:30:55 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2024-12-08 00:32:02 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-08 00:39:52 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2024-12-08 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-08 00:40:24 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-08 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-08 00:43:43 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-08 00:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-08 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-08 00:47:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-08 00:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-08 00:53:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-08 00:53:17 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-08 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2024-12-08 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-09 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2024-12-09 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2024-12-09 03:32:02 +0000"
     },
     "done": true
   },

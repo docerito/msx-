@@ -7873,7 +7873,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-12-08 01:00:12 +0000"
+      "minecraft:skeleton": "2024-12-09 01:43:23 +0000",
+      "minecraft:phantom": "2024-12-09 04:16:58 +0000",
+      "minecraft:witch": "2024-12-09 01:53:07 +0000",
+      "minecraft:spider": "2024-12-09 01:44:02 +0000",
+      "minecraft:zombie": "2024-12-08 01:00:12 +0000",
+      "minecraft:creeper": "2024-12-09 01:43:18 +0000",
+      "minecraft:zombie_villager": "2024-12-09 01:46:19 +0000"
     },
     "done": false
   },
@@ -7883,21 +7889,29 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-09 00:01:18 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/farmer": {
-    "criteria": {
-      "potato": "2024-12-09 00:34:20 +0000"
-    },
-    "done": false
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-08 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-08 23:48:48 +0000",
+      "bread": "2024-12-09 01:39:01 +0000",
+      "baked_potato": "2024-12-09 02:23:38 +0000"
+    },
+    "done": false
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-08 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 00:01:18 +0000"
     },
     "done": true
   },
@@ -7907,23 +7921,11 @@
     },
     "done": true
   },
-  "obs:phases/phase_6": {
-    "criteria": {
-      "requirement": "2024-12-08 23:58:41 +0000"
-    },
-    "done": true
-  },
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2024-12-09 00:16:39 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2024-12-08 23:48:48 +0000"
-    },
-    "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
@@ -7940,6 +7942,264 @@
   "obs:phases/dirt_4": {
     "criteria": {
       "requirement": "2024-12-09 00:23:58 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/farmer": {
+    "criteria": {
+      "potato": "2024-12-09 00:34:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/mob": {
+    "criteria": {
+      "requirement": "2024-12-09 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2024-12-09 01:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/weapon": {
+    "criteria": {
+      "requirement": "2024-12-09 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/witch": {
+    "criteria": {
+      "requirement": "2024-12-09 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-09 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2024-12-09 02:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2024-12-09 04:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/phantom": {
+    "criteria": {
+      "requirement": "2024-12-09 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-09 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2024-12-09 02:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_5": {
+    "criteria": {
+      "requirement": "2024-12-09 01:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 04:17:12 +0000"
     },
     "done": true
   },
