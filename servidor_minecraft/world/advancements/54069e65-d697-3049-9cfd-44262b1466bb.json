@@ -7895,6 +7895,12 @@
     },
     "done": true
   },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-09 00:02:29 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_6": {
     "criteria": {
       "requirement": "2024-12-08 23:58:41 +0000"
