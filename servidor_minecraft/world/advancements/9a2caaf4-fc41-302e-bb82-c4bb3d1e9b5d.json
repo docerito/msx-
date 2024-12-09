@@ -7638,6 +7638,12 @@
     },
     "done": true
   },
+  "obs:phases/dirt_5": {
+    "criteria": {
+      "requirement": "2024-12-09 00:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
