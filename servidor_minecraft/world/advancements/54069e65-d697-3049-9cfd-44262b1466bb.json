@@ -7883,9 +7883,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 00:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-08 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-08 23:58:41 +0000"
     },
     "done": true
   },

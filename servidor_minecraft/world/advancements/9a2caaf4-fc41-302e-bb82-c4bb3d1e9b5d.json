@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-08 23:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -2735,6 +2741,12 @@
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
     },
     "done": true
+  },
+  "obs:ob/farmer": {
+    "criteria": {
+      "potato": "2024-12-09 00:01:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -5430,6 +5442,12 @@
     },
     "done": true
   },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2024-12-08 23:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -5475,6 +5493,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-08 23:59:38 +0000"
     },
     "done": true
   },
@@ -6864,6 +6888,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2024-12-08 23:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -7605,6 +7635,12 @@
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2024-12-08 23:42:11 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2024-12-08 23:55:46 +0000"
     },
     "done": true
   },
