@@ -6900,6 +6900,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2024-12-09 00:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"

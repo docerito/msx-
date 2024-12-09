@@ -7907,11 +7907,29 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2024-12-09 00:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-08 23:48:48 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-09 00:19:46 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2024-12-09 00:19:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
