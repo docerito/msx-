@@ -2954,3 +2954,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [09Dec2024 20:32:44.961] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
 [09Dec2024 20:33:10.470] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
 [09Dec2024 20:33:10.473] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[09Dec2024 20:33:45.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[09Dec2024 20:33:45.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[09Dec2024 20:33:56.763] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
+[09Dec2024 20:34:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Step 9]
+[09Dec2024 20:34:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has reached the goal [After Party Challenges]
+[09Dec2024 20:35:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Obsidian Obsession]
+[09Dec2024 20:35:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Ice Bucket Challenge]
+[09Dec2024 20:36:24.353] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
+[09Dec2024 20:38:45.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[09Dec2024 20:38:45.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[09Dec2024 20:38:55.447] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[09Dec2024 20:38:55.449] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[09Dec2024 20:38:57.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/485, l='ServerLevel[Oneblock Original v3.2.0]', x=0.48, y=-1048.16, z=0.44] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[09Dec2024 20:38:57.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/485, l='ServerLevel[Oneblock Original v3.2.0]', x=0.48, y=-1048.16, z=0.44] died: Mysterious Trader 🧪 fell out of the world

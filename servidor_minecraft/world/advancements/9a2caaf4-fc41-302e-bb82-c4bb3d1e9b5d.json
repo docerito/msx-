@@ -7933,9 +7933,95 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_wool": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_white_wool": "2024-12-09 04:37:52 +0000"
+      "crafting_table": "2024-12-09 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/ender": {
+    "criteria": {
+      "1": "2024-12-09 01:38:37 +0000"
+    },
+    "done": false
+  },
+  "obs:phases/dirt_6": {
+    "criteria": {
+      "requirement": "2024-12-09 01:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 02:02:10 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/void": {
+    "criteria": {
+      "requirement": "2024-12-09 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2024-12-09 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-09 02:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-12-09 02:35:03 +0000"
+    },
+    "done": false
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2024-12-09 02:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-09 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-09 02:45:24 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/witch": {
+    "criteria": {
+      "requirement": "2024-12-09 02:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-09 03:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-12-09 03:05:19 +0000",
+      "minecraft:pig": "2024-12-09 04:20:35 +0000",
+      "minecraft:sheep": "2024-12-09 04:28:51 +0000"
+    },
+    "done": false
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2024-12-09 04:13:13 +0000"
     },
     "done": true
   },
@@ -7945,15 +8031,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
+  "obs:ob/phantom": {
+    "criteria": {
+      "requirement": "2024-12-09 04:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 04:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-09 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 04:37:52 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "iron_pickaxe": "2024-12-09 02:02:10 +0000"
+      "has_white_wool": "2024-12-09 04:37:52 +0000"
     },
     "done": true
   },
@@ -7969,21 +8073,9 @@
     },
     "done": true
   },
-  "obs:ob/witch": {
-    "criteria": {
-      "requirement": "2024-12-09 02:57:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 04:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-09 04:17:23 +0000"
     },
     "done": true
   },
@@ -7993,33 +8085,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-09 02:43:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 04:37:52 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/ender": {
-    "criteria": {
-      "1": "2024-12-09 01:38:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-09 02:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-09 02:45:24 +0000"
     },
     "done": true
   },
@@ -8029,21 +8097,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-09 03:05:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 04:37:52 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/void": {
-    "criteria": {
-      "requirement": "2024-12-09 02:07:36 +0000"
     },
     "done": true
   },
@@ -8059,29 +8115,9 @@
     },
     "done": true
   },
-  "obs:ob/furnace": {
-    "criteria": {
-      "requirement": "2024-12-09 02:34:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2024-12-09 03:05:19 +0000",
-      "minecraft:pig": "2024-12-09 04:20:35 +0000",
-      "minecraft:sheep": "2024-12-09 04:28:51 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 04:37:52 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/glistening": {
-    "criteria": {
-      "requirement": "2024-12-09 04:13:13 +0000"
     },
     "done": true
   },
@@ -8090,30 +8126,6 @@
       "has_white_wool": "2024-12-09 04:37:52 +0000"
     },
     "done": true
-  },
-  "obs:ob/phantom": {
-    "criteria": {
-      "requirement": "2024-12-09 04:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-09 04:29:35 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_8": {
-    "criteria": {
-      "requirement": "2024-12-09 02:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "baked_potato": "2024-12-09 02:35:03 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
@@ -8127,15 +8139,27 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "obs:ap/root": {
     "criteria": {
-      "crafting_table": "2024-12-09 01:20:25 +0000"
+      "requirement": "2024-12-09 20:34:32 +0000"
     },
     "done": true
   },
-  "obs:phases/dirt_6": {
+  "obs:ob/obsidian": {
     "criteria": {
-      "requirement": "2024-12-09 01:45:45 +0000"
+      "requirement": "2024-12-09 20:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 20:35:14 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "requirement": "2024-12-09 20:34:32 +0000"
     },
     "done": true
   },
