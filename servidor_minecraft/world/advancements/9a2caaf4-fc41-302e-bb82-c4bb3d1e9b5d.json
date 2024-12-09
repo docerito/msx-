@@ -7386,6 +7386,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-09 00:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
@@ -7491,6 +7497,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-08 23:38:27 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2024-12-09 00:26:44 +0000"
     },
     "done": true
   },
