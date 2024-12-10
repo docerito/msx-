@@ -8204,27 +8204,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2024-12-10 21:31:32 +0000"
-    },
-    "done": true
-  },
   "obs:ap/root": {
     "criteria": {
       "requirement": "2024-12-10 20:40:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+  "obs:phases/phase_9": {
     "criteria": {
-      "has_white_carpet": "2024-12-10 21:31:32 +0000"
+      "requirement": "2024-12-10 20:40:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
-      "has_magenta_dye": "2024-12-10 21:04:35 +0000"
+      "has_blue_dye": "2024-12-10 20:47:59 +0000"
     },
     "done": true
   },
@@ -8234,15 +8228,33 @@
     },
     "done": true
   },
-  "obs:ob/ender": {
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
-      "1": "2024-12-10 21:35:31 +0000"
+      "has_pink_dye": "2024-12-10 21:04:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-10 21:04:35 +0000"
+    },
+    "done": true
   },
   "obs:ob/world": {
     "criteria": {
       "requirement": "2024-12-10 21:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-10 21:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-10 21:31:32 +0000"
     },
     "done": true
   },
@@ -8276,21 +8288,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_blue_dye": "2024-12-10 20:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-10 21:31:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
-    "criteria": {
-      "has_pink_dye": "2024-12-10 21:04:24 +0000"
     },
     "done": true
   },
@@ -8306,15 +8306,27 @@
     },
     "done": true
   },
-  "obs:phases/phase_9": {
-    "criteria": {
-      "requirement": "2024-12-10 20:40:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-10 21:31:32 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/ender": {
+    "criteria": {
+      "1": "2024-12-10 21:35:31 +0000"
+    },
+    "done": false
+  },
+  "obs:ob/obsidian": {
+    "criteria": {
+      "requirement": "2024-12-10 21:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 21:54:34 +0000"
     },
     "done": true
   },
