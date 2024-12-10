@@ -2208,3 +2208,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [10Dec2024 20:43:53.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI joined the game
 [10Dec2024 20:48:31.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/4, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [10Dec2024 20:48:31.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/4, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[10Dec2024 21:05:23.133] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[10Dec2024 21:05:23.136] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[10Dec2024 21:05:23.157] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[10Dec2024 21:05:23.158] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
+[10Dec2024 21:05:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Part of my Overworld]
+[10Dec2024 21:05:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Part of my Overworld]
