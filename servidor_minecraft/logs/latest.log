@@ -2200,3 +2200,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [10Dec2024 20:29:56.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/2, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.08, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [10Dec2024 20:29:56.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/3, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.08, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [10Dec2024 20:29:56.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/3, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.08, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[10Dec2024 20:39:47.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:39993] logged in with entity id 78 at (1.456123323384612, 60.5, 9.628618070277978)
+[10Dec2024 20:39:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[10Dec2024 20:40:44.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Step 9]
+[10Dec2024 20:40:44.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [After Party Challenges]
+[10Dec2024 20:43:53.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MAXI[/127.4.127.236:37321] logged in with entity id 290 at (3.8016767482363627, 60.5, 0.2502507321480999)
+[10Dec2024 20:43:53.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI joined the game
+[10Dec2024 20:48:31.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/4, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[10Dec2024 20:48:31.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/4, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died: Mysterious Trader 🧪 fell out of the world

@@ -8145,6 +8145,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "requirement": "2024-12-09 20:34:32 +0000"
+    },
+    "done": true
+  },
   "obs:ob/obsidian": {
     "criteria": {
       "requirement": "2024-12-09 20:35:14 +0000"
@@ -8154,12 +8160,6 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-09 20:35:14 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_9": {
-    "criteria": {
-      "requirement": "2024-12-09 20:34:32 +0000"
     },
     "done": true
   },
