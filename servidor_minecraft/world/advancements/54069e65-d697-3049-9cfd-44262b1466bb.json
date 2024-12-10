@@ -8209,6 +8209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-12-10 20:47:59 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_9": {
     "criteria": {
       "requirement": "2024-12-10 20:40:44 +0000"
