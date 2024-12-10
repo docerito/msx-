@@ -8247,6 +8247,12 @@
     },
     "done": true
   },
+  "obs:ob/villager": {
+    "criteria": {
+      "requirement": "2024-12-10 21:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 21:06:22 +0000"

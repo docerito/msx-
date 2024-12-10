@@ -2214,3 +2214,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [10Dec2024 21:05:23.158] [Server thread/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: No key id in MapLike[{}]
 [10Dec2024 21:05:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Part of my Overworld]
 [10Dec2024 21:05:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Part of my Overworld]
+[10Dec2024 21:22:41.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/1682, l='ServerLevel[Oneblock Original v3.2.0]', x=16.85, y=60.94, z=9.44] died, message: 'Mysterious Trader 🧪 was slain by MAXI'
+[10Dec2024 21:22:41.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAXI has made the advancement [Impostor]
+[10Dec2024 21:22:41.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/1682, l='ServerLevel[Oneblock Original v3.2.0]', x=16.85, y=60.94, z=9.44] died: Mysterious Trader 🧪 was slain by MAXI
+[10Dec2024 21:25:25.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mysterious Trader 🧪'/1683, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[10Dec2024 21:25:25.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mysterious Trader 🧪'/1683, l='ServerLevel[Oneblock Original v3.2.0]', x=0.50, y=-1000.00, z=0.50] died: Mysterious Trader 🧪 fell out of the world
